@@ -1,0 +1,33 @@
+
+.site-header-content {
+    margin: 10px;
+    align-items: center;
+    align-self: center;
+
+}
+
+
+img{
+    border-radius: 50%;
+    align-self: center;
+    width: 200px;
+    height:200px;
+    box-shadow: black 2px 5px 5px;
+}
+
+body{
+    background-color: aqua;
+    margin: 0;
+    color: black;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.course-link{
+    color: black; 
+}
